@@ -27,3 +27,9 @@ react: [npm install react --template typescript]
 mui: [npm install @mui/material @mui/styled-engine-sc styled-components]
 
 axios: [npm install axios]
+
+### `Port`
+
+Frontend: [3000]
+
+Backend: [3001]
