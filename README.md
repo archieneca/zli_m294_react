@@ -22,4 +22,8 @@ Backend: [https://github.com/archieneca/zli_m294_backend]
 
 ### `Library`
 
-npm install: [npm install @mui/material @mui/styled-engine-sc styled-components]
+react: [npm install react --template typescript]
+
+mui: [npm install @mui/material @mui/styled-engine-sc styled-components]
+
+axios: [npm install axios]
